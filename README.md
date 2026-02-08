@@ -213,7 +213,7 @@ http://localhost:5173
 
 ![Student login page](screenshots/2_student_login_form.png)
 
-![Instructor login page](screenshots/3_instructor_login_form.png)
+![Instructor login page](screenshots/3_instructor_login_page.png)
 
 ### Student Dashboard
 
