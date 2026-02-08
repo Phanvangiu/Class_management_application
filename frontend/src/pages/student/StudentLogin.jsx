@@ -154,7 +154,6 @@ const StudentLogin = () => {
       },
       {
         onSuccess: (response) => {
-          console.log("Login success:", response);
           if (response.status === 200 && response.data) {
             setShowOTP(true);
           }
