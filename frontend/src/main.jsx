@@ -22,7 +22,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <ChatProvider>
         <GlobalStyles />
         <RouterProvider router={router} />
-        <ReactQueryDevtools initialIsOpen={false} />
       </ChatProvider>
     </AuthProvider>
   </QueryClientProvider>,
