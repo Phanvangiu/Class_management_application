@@ -211,41 +211,31 @@ http://localhost:5173
 
 ![Landing page](screenshots/1_landing_page.png)
 
-![Intructor Login](screenshots/2_student_login_form.png)
-![Instructor Login](./screenshots/01-instructor-login.png)
-_Instructor login with phone number_
+![Student login page](screenshots/2_student_login_form.png)
 
-![Student Login](./screenshots/02-student-login.png)
-_Student login with email_
-
-### Instructor Dashboard
-
-![Instructor Dashboard](./screenshots/03-instructor-dashboard.png)
-_Main dashboard with student overview_
-
-![Student Management](./screenshots/04-student-management.png)
-_Manage students - add, edit, delete_
-
-![Assign Lesson](./screenshots/05-assign-lesson.png)
-_Assign lessons to students_
+![Instructor login page](screenshots/3_instructor_login_form.png)
 
 ### Student Dashboard
 
-![Student Dashboard](./screenshots/06-student-dashboard.png)
-_Student view of assigned lessons_
+![Lesson page](screenshots/4_lesson_student_page.png)
 
-![My Lessons](./screenshots/07-my-lessons.png)
-_Complete lessons and track progress_
+### Instructor Dashboard
+
+![Lesson page](screenshots/8_lesson_instructor_page.png)
+
+![Create lesson page](screenshots/9_create_lesson_form.png)
+
+![List student page](screenshots/10_student_list.png)
 
 ### Chat Interface
 
-![Real-Time Chat](./screenshots/08-chat.png)
-_Live messaging between instructor and students_
+![ Student chat page](screenshots/5_chat_student_page.png)
+
+![Instructor chat page](screenshots/11_instructor_chat_page.png)
 
 ### Profile Management
 
-![Edit Profile](./screenshots/09-edit-profile.png)
-_Update personal information_
+![Profile student page](screenshots/6_profile_student_page.png)
 
 ---
 
